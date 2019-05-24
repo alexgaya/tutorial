@@ -1,6 +1,8 @@
 {
   "name": "tutorial",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "26db860e"
 }
